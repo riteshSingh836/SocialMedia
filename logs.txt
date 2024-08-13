@@ -1,0 +1,16 @@
+{"level":"info","message":"/api/likes/651e800f87b2295b19e06c46 - {}","service":"request-logging"}
+{"level":"info","message":"/api/likes/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/toggle/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/651e800f87b2295b19e06c46 - {}","service":"request-logging"}
+{"level":"info","message":"/api/likes/651e800f87b2295b19e06c46 - {\"type\":\"Post\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes/66443a1fa785a2fa25ddeeba - {\"type\":\"Post\"}","service":"request-logging"}
